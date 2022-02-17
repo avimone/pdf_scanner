@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+- Trying to upgrade `simple_edge_detection` repo to `Null safety` and new version of `camera` plugin
+- and uploaded `opencv` files too in git repo itself
+- will give pull request to original repo of  `simple_edge_detection` when completed
 ## Getting Started
 
 This project is a starting point for a Flutter application.
